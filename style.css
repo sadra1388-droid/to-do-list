@@ -78,6 +78,7 @@ ul li::before {
     width: 28px;
     border-radius: 50%;
     background-image: url(images/unchecked.png);
+    transform: translate(10%, 10%)
     background-size: cover;
     background-position: center;
     top: 12px;
